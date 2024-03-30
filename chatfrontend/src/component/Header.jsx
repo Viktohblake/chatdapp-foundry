@@ -9,7 +9,7 @@ export default function Header() {
       className=" py-[4rem]"
     >
       <div className="text-2xl text-[#888] text-[4rem] font-bold">
-        Chat Messager
+        ChatApp Messenger
       </div>
       <w3m-button />
     </Flex>
